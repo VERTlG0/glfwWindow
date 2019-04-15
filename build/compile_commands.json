@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cf/dev/OpenGL/glfwWindow/glfwWindow/build",
+  "command": "/usr/bin/c++  -DGLFW_DLL   -std=c++11 -g   -o CMakeFiles/glfwWindow.dir/main.cpp.o -c /home/cf/dev/OpenGL/glfwWindow/glfwWindow/main.cpp",
+  "file": "/home/cf/dev/OpenGL/glfwWindow/glfwWindow/main.cpp"
+}
+]
